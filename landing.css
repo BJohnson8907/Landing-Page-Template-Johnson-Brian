@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    font-size: 20px;
+}
+
+#neuralink{
+    background-image:url(https://miro.medium.com/max/1400/1*hAqVsuZHAKbhG3GwNSDcCA.jpeg);
+    height: 100vh;
+    width: auto;
+    background-size: cover;
+    }
+
+.my-nav{
+    align-items: flex-end;
+    color: white;
+}
+
+.my-button{
+    color: black;
+    }
+
+.my-container{
+   
+}
+
+.my-row{
+    height: 600px;
+    }
+.col1{
+     background-color: pink;
+    }
+    
+.col2{
+    background-color: aquamarine;    
+}
+
+.col3{
+    background-color: brown;
+}
+.my-row2{
+    height: 500px;
+    background-color: gold;
+}
+
+.my-row3{
+    height: 300px;
+    background-color: lightgrey;
+
+}
