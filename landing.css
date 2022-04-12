@@ -27,15 +27,24 @@ body{
     height: 600px;
     }
 .col1{
-     background-color: pink;
+     background-image:url(https://dana.org/wp-content/uploads/2019/06/fs-cells-of-the-brain.jpg);
+     color: white;
+     font-size: 40px;
+     
     }
     
 .col2{
-    background-color: aquamarine;    
+    background-image:url(https://miro.medium.com/max/1400/1*89ZaNQDCFhcZsNze98YEqg.jpeg);    
+    font-size: 40px;
+    background-size: cover;
+    color: white;
 }
 
 .col3{
-    background-color: brown;
+    background-image:url(https://thebossmagazine.com/wp-content/uploads/2020/01/engineering-the-brain-1.jpg);
+    font-size: 40px;
+    background-size: cover;
+    color: white;
 }
 .my-row2{
     height: 500px;
